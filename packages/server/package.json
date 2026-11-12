@@ -14,7 +14,7 @@
     "test": "vitest run"
   },
   "dependencies": {
-    "@hono/node-server": "^1.14.0",
+    "@hono/node-server": "^2.1.6",
     "@modelcontextprotocol/sdk": "^1.12.0",
     "better-sqlite3": "^11.0.0",
     "googleapis": "^144.0.0",
